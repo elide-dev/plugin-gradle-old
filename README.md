@@ -1,3 +1,10 @@
+# This repository is archived.
+
+Elide has a new Gradle plugin which is much cooler. You can find it [here](https://github.com/elide/gradle).
+
+<details>
+<summary>Expand to see old README content</summary>
+
 # Elide Plugin for Gradle
 
 ![beta](https://img.shields.io/badge/status-beta-blue.svg)
@@ -253,3 +260,5 @@ elide {
 [1]: https://kotlinlang.org/docs/gradle.html
 [2]: https://kotlinlang.org/docs/js-project-setup.html
 [3]: https://kotlinlang.org/docs/jvm-get-started.html
+
+</details>
